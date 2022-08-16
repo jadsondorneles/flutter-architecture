@@ -1,3 +1,4 @@
+// File containing Widget
 import 'package:flutter/material.dart';
 
 class TableWidget extends StatelessWidget {

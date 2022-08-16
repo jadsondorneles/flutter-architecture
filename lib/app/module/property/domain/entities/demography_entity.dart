@@ -1,3 +1,4 @@
+// Entities implementations (for Usecases and UI)
 import 'package:equatable/equatable.dart';
 
 class DemographyEntity extends Equatable {

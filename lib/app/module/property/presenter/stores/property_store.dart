@@ -1,3 +1,4 @@
+// File containing Store (State Management with mobx)
 import 'package:mobx/mobx.dart';
 import 'package:pr_example_architecture/app/module/property/domain/entities/demography_entity.dart';
 import 'package:pr_example_architecture/app/module/property/domain/entities/property_entity.dart';

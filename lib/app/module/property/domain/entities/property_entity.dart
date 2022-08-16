@@ -1,3 +1,4 @@
+// Entities implementations (for Usecases and UI)
 import 'package:equatable/equatable.dart';
 import 'package:pr_example_architecture/app/module/property/domain/entities/demography_entity.dart';
 import 'package:pr_example_architecture/app/module/property/domain/entities/lease_entity.dart';

@@ -1,3 +1,4 @@
+// File containing page content
 import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:pr_example_architecture/app/module/property/presenter/widget/table_widget.dart';
